@@ -1,5 +1,12 @@
-Halo pak, salam kenal nama saya Sandhika dari Bandung
+Halo pak, salam kenal nama saya TEDDY dari KALIMANTAN
 
 Resolusi Saya :
-- Membuat website menggunakan framework javascript
+- Membuat website menggunakan framework javascript (REACT)
+  ^ CI/LARAVEL
+  ^ HTML5 & CSS3 (BOOSTRAP)
+  ^ PYTHON
+  ^ BASH/PERL
 - Bekerja di start-up
+- ANDROID APK BUILDER (STUDIO)
+- TINGGAL DIKANTOR / MESS
+
