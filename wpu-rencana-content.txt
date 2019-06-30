@@ -2,6 +2,7 @@ RENCANA KONTEN WPU
 
 - Javascript
   * ES6
+  * JQuery
   * Framework Javascript
     ^ Vue
     ^ React
@@ -12,3 +13,4 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- MySQL
