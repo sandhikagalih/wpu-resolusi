@@ -7,6 +7,7 @@ RENCANA KONTEN WPU
     ^ React
     ^ Angular
 - Struktur Data Dasar
+- Object Oriented Programming JavaScript
 - PHP Frameworks
   ^ Laravel
 - Interview
