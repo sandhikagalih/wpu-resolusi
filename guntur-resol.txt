@@ -1,0 +1,4 @@
+Halo, nama saya guntur pratama dari jakarta.
+
+Ini resolusi saya pada tahun 2020, yaitu dengan expert menggunakan 
+framework ci, selain itu expert ke js dan framework node.js dan vuejs
