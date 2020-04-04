@@ -1,6 +1,3 @@
 WPU RESOLUSI
-- Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengelolaan video
-- Membuat forum diskusi
+- membuat softwarehouse sendiri
 - Kolaborasi dengan lebih banyak expert
-- Membuat vlog
