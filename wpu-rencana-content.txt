@@ -1,6 +1,7 @@
 RENCANA KONTEN WPU
 
 - Javascript
+* CRUD database menggunakan javascript
   * ES6
   * Framework Javascript
     ^ Vue
