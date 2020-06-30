@@ -1,0 +1,43 @@
+Assalamualaikum pak, nama saya Muhammad Fadil Ardiansyah dari Tangerang.
+
+Resolusi saya tahun ini adalah.
+
+menyelesaikan matari dasar pemograman web:
+HTML - Struktur dan Struktur
+     - Table
+     - Forms
+     - Semantic HTML
+ 
+CSS - Basic
+    - Layout
+    - Box Model
+    - Flexbox
+    - Grid
+    - Media queries
+    
+Javascript - Basic
+           - Js Forms
+           - Js Object
+           - Js Function
+           - Js DOM
+           - Js BOM
+           - Js AJAX
+           - js JSON
+           - Jquery
+
+harus kelar materi Web Developer di bawah ini:
+  - React js
+  - Express js
+  - Node js
+  - MongoDB
+  
+  Belajar UI Designer
+  - Adobe XD
+  - Adobe Illustrator
+  - Adobe Photoshop
+  
+  Sumber materi:
+  w3schools.com
+  youtube channel Web Programming Unpas
+  developer.mozilla.org
+  Beli Kelas Full-Stack Javascript Developer (MERN) dan Beli Kelas Full-Stack Web Designer
