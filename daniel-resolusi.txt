@@ -1,0 +1,7 @@
+Halo pak, salam kenal nama saya Daniel seorang mahasiswa dari Kediri Jawa Timur
+
+Resolusi Saya :
+- Membuat website menggunakan laravel
+- Membuat website menggunakan framework vuejs
+- Menambah portofolio
+- Bekerja di start-up
