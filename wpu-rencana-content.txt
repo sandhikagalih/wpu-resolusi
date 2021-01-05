@@ -1,5 +1,7 @@
 RENCANA KONTEN WPU
 
+- Python Frameworks
+  ^Django
 - Javascript
   * ES6
   * Framework Javascript
