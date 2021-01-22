@@ -1,0 +1,16 @@
+halo pa dika salam kenal nama saya Diaz dari Bandung, usia saya 33 tahun, 
+sudah lirik pemograman sejak 2013 tapi baru kesampaian belajar tahun 2019
+resolusi saya: 
+tahun ini saya ingin sudah bisa 
+- ui/ux design
+- Frontend Developer
+* Bootstrap
+* Vue.JS 
+* node.JS 
+
+- Backend Developer
+* Php
+* Codeigniter
+* Laravel
+
+saya ingin menjadi freelancer di bidang WEB & Apps Development 
