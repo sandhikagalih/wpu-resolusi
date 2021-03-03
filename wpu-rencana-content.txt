@@ -1,11 +1,14 @@
 RENCANA KONTEN WPU
 
+-CSS
+  * Media Query
 - Javascript
   * ES6
   * Framework Javascript
     ^ Vue
     ^ React
     ^ Angular
+   * Node JS
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
