@@ -1,0 +1,7 @@
+Halo Pak, Salam kenal
+
+Resolusi:
+  - Tuntas belajar git hub
+  - Belajar SQL
+  - Belajar materi Data Analyst
+  - Belajar Python for Data Analyst
