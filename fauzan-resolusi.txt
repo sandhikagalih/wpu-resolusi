@@ -1,0 +1,6 @@
+Halo Pak Salam Kenal Saya Fauzan Nurrachman dari Tangerang
+
+Resolusi Saya Kedepan
+1. Ingin membuat website pemetaan menggunakan javascript-leaflet beserta CRUD
+2. Memahami Bahasa Phyton dan Ruby
+3. Bekerja di Startup
