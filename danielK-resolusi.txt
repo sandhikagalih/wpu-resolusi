@@ -1,0 +1,8 @@
+Hallo pak, salam kenal. 
+Nama saya Daniel Kusuma dari Tangerang dan umur saya 18 tahun. 
+Sekarang, saya adalah seorang mahasiswa.
+
+Resolusi saya sebelum akhir 2021:
+-. Menguasai javascript dasar dan DOM.
+-. Mahir membuat website menggunakkan css framework (Bootstrap).
+-. Bekerja sebagai freelancer
