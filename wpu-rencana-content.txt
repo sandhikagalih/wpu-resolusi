@@ -12,3 +12,5 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+
+JANGAN LUPA TITIK KOMA ;
