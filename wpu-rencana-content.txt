@@ -12,3 +12,5 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- tutorial costumisasi vs code
+
