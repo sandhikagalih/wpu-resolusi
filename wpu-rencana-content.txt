@@ -7,6 +7,7 @@ RENCANA KONTEN WPU
     ^ React
     ^ Angular
 - Struktur Data Dasar
+    ^ Database SQL & NoSql
 - PHP Frameworks
   ^ Laravel
 - Interview
