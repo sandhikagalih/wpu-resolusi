@@ -1,0 +1,7 @@
+Halo pak salam kenal nama saya Yogi dari Bandung
+
+Resolusi saya:
+- Membuat website e-comerce sendiri dengan teknologi terkini
+- Memahami perkembangan teknologi IT
+- Memahami cara kerja GIT (team work)
+- Belajar framework laravel
