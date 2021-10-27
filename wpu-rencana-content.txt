@@ -11,4 +11,6 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlogs
+  ^Ngajar di Kampus
+  ^Proses bapak belajar konsep baru
 - Python
