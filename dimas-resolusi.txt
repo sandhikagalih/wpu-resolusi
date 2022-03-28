@@ -1,0 +1,4 @@
+Halo pak, nama saya Dimas dari Sumedang
+
+ini resolusi saya :
+saya ingin membuat website menggunakan Code Igniter
