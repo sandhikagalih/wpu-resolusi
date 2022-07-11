@@ -7,6 +7,10 @@ RENCANA KONTEN WPU
     ^ React
     ^ Angular
 - Struktur Data Dasar
+- Algoritma dan Penerapan
+- Aktif di berbagai sosmed
+- Giveaway monitor, keyboard
+- Recommend link, buku buat belajar programming 
 - PHP Frameworks
   ^ Laravel
 - Interview
