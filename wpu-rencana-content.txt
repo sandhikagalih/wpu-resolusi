@@ -14,3 +14,4 @@ RENCANA KONTEN WPU
 - Python
 - SQL
 - GO
+- HTML Canvas
