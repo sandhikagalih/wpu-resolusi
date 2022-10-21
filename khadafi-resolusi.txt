@@ -1,0 +1,6 @@
+Halo pak, salam kenal saya Muhammad Khadafi dari Kalimantan Barat, Kab. Ketapang
+Saya mahasiswa semester 5 di Politeknik Negeri Ketapang
+
+Resolusi saya :
+- Membuat website menggunakan framework php.
+- Bekerja di startup.
