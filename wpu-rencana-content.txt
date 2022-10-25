@@ -1,14 +1,4 @@
-RENCANA KONTEN WPU
-
-- Javascript
-  * ES6
-  * Framework Javascript
-    ^ Vue
-    ^ React
-    ^ Angular
-- Struktur Data Dasar
-- PHP Frameworks
-  ^ Laravel
-- Interview
-- Vlogs
-- Python
+cita2 dan resolusi
+ingin menjadi programmer handal, tetap menjadi pribadi yang resilience dan kuat mneghadapi berbagai masalah
+lulus dari ti umk deengan nilai memuaskan dan membanggakan orang tua, hidup bahagia
+mendapat kesempatan untuk bekerja diluar kota sebagai programmer
