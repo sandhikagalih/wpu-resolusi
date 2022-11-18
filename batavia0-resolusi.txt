@@ -1,0 +1,7 @@
+Halo pak salam kenal saya Bramasto saya dari Politeknik Negeri Subang kebetulan sedang PKL di perusahaan Software dan belajar GIT dari pak Sandhika. Untuk resolusi kedepan bisa dipertimbangkan untuk membuat; 
+- Tutorial AdonisJS CRUD
+- REST API dengan Laravel atau framework NodeJS
+- Unit Testing dengan PHP
+- Software Quality Assurance
+
+terimakasih pak sykur-syukur dibaca ygy :) 
