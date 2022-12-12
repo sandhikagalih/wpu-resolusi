@@ -1,0 +1,9 @@
+Halo Pak Sandhika, perkenalkan saya Emik dari Bali.
+Seorang IRT yang sedang belajar Software Testing
+
+Resolusi saya :
+- Melakukan manual testing dan membuat dokumentasi dengan baik, menggunakan tools Google Sheet, Jira dan Testrail
+- Belajar Automation Testing menggunakan Katalon Studio
+- Belajar Automation Testing menggunakan Postman
+- Belajar Git dan Github
+- Belajar Automation Testing menggunakan Cypress.io
