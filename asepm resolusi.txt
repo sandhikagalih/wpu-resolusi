@@ -1,0 +1,13 @@
+memperdalam skill native
+-html
+-css
+-js
+-php
+
+mempelajari framework
+css
+-bootstrap
+js
+-reactjs
+php
+-laravel
