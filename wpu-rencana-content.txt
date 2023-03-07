@@ -6,6 +6,8 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ Alpine Js
+    ^ Nest Js
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
