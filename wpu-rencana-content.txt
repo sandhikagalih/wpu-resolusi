@@ -9,6 +9,8 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ Belajar Package yang memudahkan di laravel
 - Interview
 - Vlogs
 - Python
+- Belajar Reqwest ajax di jQuery
