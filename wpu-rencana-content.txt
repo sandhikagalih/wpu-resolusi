@@ -6,6 +6,9 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^react native
+    ^flutter
+    ^android native
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
