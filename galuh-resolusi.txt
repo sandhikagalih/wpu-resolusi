@@ -1,0 +1,11 @@
+Halo Bapak, Perkenalkan saya Galuh Putra Warman merupakan master graduate computer science dari Binus University, mempunyai pengalaman selama 6 bulan terkait machine learning dari Program Bangkit yang di desain oleh google dengan kampus meredeka
+
+Resolusi saya:
+-Bisa Bekerja Sebagai Data Analyst, Data Scientist dan Data Engineer
+-Bisa Bekerja di BIG4
+
+Task:
+- Membuat Web Portofolio diri menggunakan HTML CSS JS + Boostrap yang dideploy menggunakan netlify
+- Pelajari PostGre SQL UDEMY
+- Pelajar Google Certification Analytics Coursera
+- Pelajari Visualization Tools yang dibutuhkan seperti TableAU, PowerBI, Google Studio
