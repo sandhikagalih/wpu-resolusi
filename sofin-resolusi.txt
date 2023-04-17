@@ -1,0 +1,5 @@
+Assalamualaikum Wr. Wb
+Resolusi :
+- Menguasai Git
+- Menguasai Javascript
+- Menguasai Framework Javascript
