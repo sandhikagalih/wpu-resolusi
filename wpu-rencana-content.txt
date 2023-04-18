@@ -6,6 +6,9 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+- membuat framework php
+  ^ CI
+  ^ Laravel 10
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
