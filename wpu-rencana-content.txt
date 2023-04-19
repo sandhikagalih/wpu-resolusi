@@ -12,3 +12,4 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- Pembuatan aplikasi web sederhana menggunakan bahasa Java
