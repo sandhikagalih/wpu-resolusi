@@ -6,6 +6,7 @@ RENCANA KONTEN WPU
     ^ Vue
     ^ React
     ^ Angular
+    ^ next.js
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
