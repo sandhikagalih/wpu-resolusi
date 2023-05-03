@@ -12,3 +12,8 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- Figma
+- Data Science
+  a. python pandas
+  b. tableau
+  c. google data studio
