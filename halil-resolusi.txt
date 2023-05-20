@@ -1,0 +1,7 @@
+Hallo pak, saya Muhammad Halil dari Banjarmasin.
+
+Resolusi saya:
+1. Belajar framework:
+  -. React
+  -. CodeIgniter
+  -. Laravel
