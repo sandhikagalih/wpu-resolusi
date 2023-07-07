@@ -12,3 +12,4 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+perbanyak konten tentang backend devlooper pak dan bahasa python , hehhehe
