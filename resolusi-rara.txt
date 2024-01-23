@@ -1,0 +1,5 @@
+Hallo pak, salam kenal nama saya rara asal padang
+
+resolusi saya :
+- membuat web dengan codeigniter
+- membuat tempat belajar web
