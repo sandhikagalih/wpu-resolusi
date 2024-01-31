@@ -1,0 +1,8 @@
+Hallo pak , salam kenal nama saya ahmad dari Bogor,  ini resoulusi saya.
+
+Resoulusi :
+- Belajar backend develop 
+- upskilling menggunakna typescript dan golang 
+- ingin lebih lancar mendevelop RestAPI 
+- bisa lebih paham menggunakan Cloud tech seperti GCP dan AWS 
+- ingin bekerja disalah satu startup dan big4 yang ada diindonesi a
