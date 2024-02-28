@@ -12,3 +12,6 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- Rekomendasi website game untuk melatih HTML, CSS, Javascript
+- Rekomendasi website untuk mencari gambar, video, dan audio yang gratis
+- Playlist tentang pemahaman pewarnaan
