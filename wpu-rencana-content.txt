@@ -1,4 +1,4 @@
-RENCANA KONTEN WPU
+sRENCANA KONTEN WPU
 
 - Javascript
   * ES6
@@ -12,3 +12,5 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- design web
+- penjelasan full animation seperti web web yang bagus pak, tapi mengunakan css
