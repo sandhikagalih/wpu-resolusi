@@ -12,3 +12,6 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+
+ijin saran pak untuk konten selanjutnya saya harap ada tutorial mengenai web3, soalnya saya lihat di indonesia belum ada yang membuat tutorial web3 dan blockchain. 
+
