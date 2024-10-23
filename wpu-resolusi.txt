@@ -1,6 +1,9 @@
 WPU RESOLUSI
-- Konsisten untuk membuat konten 2x seminggu
-- Membuat platform untuk pengelolaan video
-- Membuat forum diskusi
-- Kolaborasi dengan lebih banyak expert
-- Membuat vlog
+- Membuat akun medium yang berbayar langganan 1 tahun 
+- menulis artikel 1 hari 1 artikel 
+- belajar tentang :
+  * Python 
+  * Mechine learning 
+  * Git
+  * SQL 
+  * Tableau

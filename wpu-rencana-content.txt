@@ -12,3 +12,7 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+- Tableau 
+- SQL 
+- Nulis artikel di Medium 
+- Olahraga Pagi
