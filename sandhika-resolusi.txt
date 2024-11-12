@@ -1,5 +1,5 @@
-Halo pak, salam kenal nama saya Sandhika dari Bandung
+Halo pak, salam kenal nama saya kardi dari palu
 
 Resolusi Saya :
-- Membuat website menggunakan framework javascript
-- Bekerja di start-up
+- menjadi fullstack developer
+- membuat start-up
