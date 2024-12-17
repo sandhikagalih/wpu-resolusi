@@ -9,6 +9,7 @@ RENCANA KONTEN WPU
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
+  ^ Ngobar Laravel 11
 - Interview
 - Vlogs
 - Python
