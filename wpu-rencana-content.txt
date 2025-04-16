@@ -8,7 +8,9 @@ RENCANA KONTEN WPU
     ^ Angular
 - Struktur Data Dasar
 - PHP Frameworks
-  ^ Laravel
+  ^ Laravel 
 - Interview
 - Vlogs
 - Python
+- Databases & SQL
+
