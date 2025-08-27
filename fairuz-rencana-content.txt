@@ -1,7 +1,7 @@
 RENCANA KONTEN WPU
 
 - Javascript
-  * ES6
+  * belajar vibe coding
   * Framework Javascript
     ^ Vue
     ^ React
@@ -12,3 +12,4 @@ RENCANA KONTEN WPU
 - Interview
 - Vlogs
 - Python
+
