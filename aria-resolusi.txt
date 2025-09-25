@@ -1,0 +1,5 @@
+Halo pak, salam kenal nama saya aria dari Denpasar
+
+Resolusi saya :
+- membuat website menggunakan framework React JS dan Node JS
+- bekerja secara remote dan freelance
