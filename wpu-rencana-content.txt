@@ -10,5 +10,9 @@ RENCANA KONTEN WPU
 - PHP Frameworks
   ^ Laravel
 - Interview
+- Styling & UI Frameworks
+Koding tanpa tampilan yang oke akan terasa kurang bagi pemula.
+ ^ Tailwind CSS: Ini adalah "raja" CSS framework saat ini. Sangat cocok disandingkan dengan React/Vue/Laravel.
+ ^ Headless UI / Component Library: Bahas cara pakai shadcn/ui atau Radix UI yang sedang sangat tren.
 - Vlogs
 - Python
